@@ -1,18 +1,33 @@
-import { useState } from 'react'
-import data from "../data.json"
+import axios from 'axios';
+import { useEffect, useState } from 'react'
 import Modal from './Modal';
 export default function Card() {
     let [isOpen, setIsOpen] = useState(false);
-    const [listItem, setListItem] = useState()
+    const [address, setAddress] = useState("")
+    const [listItem, setListItem] = useState();
+    const [listData, setListData] = useState([])
     const handleShowModal = (item) => {
         setIsOpen(true);
         setListItem(item)
     }
+    const getListNFt = async (address) => {
+        const { data } = await axios.get(`https://warehouse.czlabs.io/api1/web3/portfolio/${address}`, {})
+        setListData(data.data.collections)
+    }
+    useEffect(() => {
+        getListNFt(address)
+    }, [address])
     return (
         <>
+            <input
+                className='border-2 border-solid py-2 px-3 outline-none rounded-md'
+                placeholder='Type your Address'
+                onChange={(val) => setAddress(val.target.value)
+                }
+                type="text" />
             <div className='grid grid-cols-1 md:grid-cols-4 2xl:grid-cols-5 gap-3'>
                 {
-                    data.map((item, index) => (
+                    listData && listData.length > 0 && listData.map((item, index) => (
                         <div
                             onClick={() => handleShowModal(item)}
                             className='flex flex-col cursor-pointer'>
@@ -23,14 +38,14 @@ export default function Card() {
                                 <div
                                     onClick={() => handleShowModal(item)}
                                     className='rounded w-full'
-                                    style={{ backgroundImage: `url(${item.imageUrl})`, backgroundSize: 'cover', height: '142px', }}
+                                    style={{ backgroundImage: `url(${item.image})`, backgroundSize: 'cover', height: '142px', }}
                                 />
-                                <span className='text-sm text-white'>{item.name}</span>
+                                <span className='text-sm text-white truncate'>{item.name}</span>
                             </div>
                             <div className='bg-secondary flex flex-col gap-2 p-3 border-2 border-solid border-gray-300 rounded-b-lg'>
                                 <div className='text-xs text-gray-400'>Owner:</div>
                                 <div className='text-xs text-white truncate'>
-                                    {item.address}
+                                    {item.contract_address}
                                 </div>
                             </div>
 

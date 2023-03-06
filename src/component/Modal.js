@@ -40,18 +40,19 @@ export default function Modal({ isOpen, setIsOpen, data }) {
                                             <img
                                                 alt=""
                                                 className='w-32 h-28 rounded-lg'
-                                                src={data.imageUrl}
+                                                src={data.image}
                                             />
                                             <div className='flex flex-col gap-2'>
-                                                <span className='text-sm text-primary'>Name: {data.collectionName} </span>
-                                                <span className='text-sm text-primary'>address: {data.address} </span>
-                                                <span className='text-sm text-primary'>RarityScore: #{data.rarityScore}</span>
+                                                <span className='text-sm text-primary'>Name: {data.name} </span>
+                                                <span className='text-sm text-primary'>address: {data.contract_address} </span>
+                                                <span className='text-sm text-primary'>token_standard: #{data.token_standard}</span>
                                             </div>
 
                                         </div>
                                         <a
-                                            href={`https://opensea.io/collection/mekaverse`}
+                                            href={`https://opensea.io/assets/ethereum/${data.contract_address}`}
                                             target="_blank"
+                                            rel="noreferrer"
                                             className='text-lg text-white bg-blue-400 flex items-center justify-center outline-none border-none py-2 rounded-md'>
                                             Purchase
                                         </a>
