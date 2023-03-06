@@ -1,9 +1,7 @@
-import { useState, Fragment } from 'react'
-import { Dialog, Transition } from '@headlessui/react'
+import { useState } from 'react'
 import data from "../data.json"
 import Modal from './Modal';
 export default function Card() {
-    console.log(data);
     let [isOpen, setIsOpen] = useState(false);
     const [listItem, setListItem] = useState()
     const handleShowModal = (item) => {

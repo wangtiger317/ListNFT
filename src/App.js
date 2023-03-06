@@ -6,6 +6,7 @@ function App() {
       <div className='text-2xl text-start'>
         Lists of NFT
       </div>
+      {/* list of nfts */}
       <Card />
     </div>
   );
