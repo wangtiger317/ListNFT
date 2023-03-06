@@ -1,0 +1,652 @@
+[
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 273000000000000000,
+        "id": "2618",
+        "imageUrl": "https://i.seadn.io/gcs/files/c23de2f90150c1fd86e07130ee888c6d.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/2618",
+        "name": "Meka #2618",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "273000000000000000"
+        },
+        "rarityScore": 1033,
+        "standard": "ERC721",
+        "tokenId": "2618",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/2618",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 276400000000000000,
+        "id": "6489",
+        "imageUrl": "https://i.seadn.io/gcs/files/368efc940c8872da2ef9ae99942a0f87.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/6489",
+        "name": "Meka #6489",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "276400000000000000"
+        },
+        "rarityScore": 7693,
+        "standard": "ERC721",
+        "tokenId": "6489",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/6489",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 276500000000000000,
+        "id": "8730",
+        "imageUrl": "https://i.seadn.io/gcs/files/b2585922376869146fc86a0ec22bb55d.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/8730",
+        "name": "Meka #8730",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "276500000000000000"
+        },
+        "rarityScore": 8636,
+        "standard": "ERC721",
+        "tokenId": "8730",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/8730",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 276900000000000000,
+        "id": "699",
+        "imageUrl": "https://i.seadn.io/gcs/files/7539bcb97e86c498795ba8f93a3cd3f9.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/699",
+        "name": "Meka #699",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "276900000000000000"
+        },
+        "rarityScore": 6540,
+        "standard": "ERC721",
+        "tokenId": "699",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/699",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 277000000000000000,
+        "id": "5895",
+        "imageUrl": "https://i.seadn.io/gcs/files/7022553cf7559778f76437688bd2da1a.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5895",
+        "name": "Meka #5895",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "277000000000000000"
+        },
+        "rarityScore": 3562,
+        "standard": "ERC721",
+        "tokenId": "5895",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5895",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 279800000000000000,
+        "id": "6008",
+        "imageUrl": "https://i.seadn.io/gcs/files/c3909dd472331e9da4afcd3cb557216f.png?w=500&auto=format",
+        "market": "seaport",
+        "marketUrl": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/6008",
+        "name": "Meka #6008",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "279800000000000000"
+        },
+        "rarityScore": 6816,
+        "standard": "ERC721",
+        "tokenId": "6008",
+        "url": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/6008",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 281800000000000000,
+        "id": "2436",
+        "imageUrl": "https://i.seadn.io/gcs/files/d24dcec71e15b6f7c6aa6c4ae56bdc49.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/2436",
+        "name": "Meka #2436",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "281800000000000000"
+        },
+        "rarityScore": 2672,
+        "standard": "ERC721",
+        "tokenId": "2436",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/2436",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 281800000000000000,
+        "id": "3577",
+        "imageUrl": "https://i.seadn.io/gcs/files/fc7f20db2945d31cbe0f3aec3eb2aab5.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/3577",
+        "name": "Meka #3577",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "281800000000000000"
+        },
+        "rarityScore": 7735,
+        "standard": "ERC721",
+        "tokenId": "3577",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/3577",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 281800000000000000,
+        "id": "6985",
+        "imageUrl": "https://i.seadn.io/gcs/files/06752fbbc33a68a441d9a7910fa80341.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/6985",
+        "name": "Meka #6985",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "281800000000000000"
+        },
+        "rarityScore": 3327,
+        "standard": "ERC721",
+        "tokenId": "6985",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/6985",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 281800000000000000,
+        "id": "7776",
+        "imageUrl": "https://i.seadn.io/gcs/files/98faccb57cbc64bd62fa6e4e6d6eb20d.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/7776",
+        "name": "Meka #7776",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "281800000000000000"
+        },
+        "rarityScore": 7546,
+        "standard": "ERC721",
+        "tokenId": "7776",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/7776",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 284900000000000000,
+        "id": "3094",
+        "imageUrl": "https://i.seadn.io/gcs/files/cbe01e8f49c5923698edd9ecc79014aa.png?w=500&auto=format",
+        "market": "seaport",
+        "marketUrl": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/3094",
+        "name": "Meka #3094",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "284900000000000000"
+        },
+        "rarityScore": 7299,
+        "standard": "ERC721",
+        "tokenId": "3094",
+        "url": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/3094",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 285000000000000000,
+        "id": "4190",
+        "imageUrl": "https://i.seadn.io/gcs/files/4768448671c6bac61b7f69b5c7079772.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/4190",
+        "name": "Meka #4190",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "285000000000000000"
+        },
+        "rarityScore": 5596,
+        "standard": "ERC721",
+        "tokenId": "4190",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/4190",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 285000000000000000,
+        "id": "8603",
+        "imageUrl": "https://i.seadn.io/gcs/files/8735636c51612b80c274feeaaf62023c.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/8603",
+        "name": "Meka #8603",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "285000000000000000"
+        },
+        "rarityScore": 7220,
+        "standard": "ERC721",
+        "tokenId": "8603",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/8603",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 285000000000000000,
+        "id": "3957",
+        "imageUrl": "https://i.seadn.io/gcs/files/9c5ad9b42697d83a9d0df779c1f2b492.png?w=500&auto=format",
+        "market": "seaport",
+        "marketUrl": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/3957",
+        "name": "Meka #3957",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "285000000000000000"
+        },
+        "rarityScore": 8073,
+        "standard": "ERC721",
+        "tokenId": "3957",
+        "url": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/3957",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 288800000000000000,
+        "id": "5548",
+        "imageUrl": "https://i.seadn.io/gcs/files/3d99d9afcac314bbd581f1a36bd78875.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5548",
+        "name": "Meka #5548",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "288800000000000000"
+        },
+        "rarityScore": 7243,
+        "standard": "ERC721",
+        "tokenId": "5548",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5548",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 290000000000000000,
+        "id": "5859",
+        "imageUrl": "https://i.seadn.io/gcs/files/6a7a4830e5f97090304a629030c50c4d.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5859",
+        "name": "Meka #5859",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "290000000000000000"
+        },
+        "rarityScore": 4673,
+        "standard": "ERC721",
+        "tokenId": "5859",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5859",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 295000000000000000,
+        "id": "5556",
+        "imageUrl": "https://i.seadn.io/gcs/files/24aa8ba2e4eeb7b5b115357dc5575bf2.png?w=500&auto=format",
+        "market": "seaport",
+        "marketUrl": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5556",
+        "name": "Meka #5556",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "295000000000000000"
+        },
+        "rarityScore": 8885,
+        "standard": "ERC721",
+        "tokenId": "5556",
+        "url": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5556",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 296900000000000000,
+        "id": "4158",
+        "imageUrl": "https://i.seadn.io/gcs/files/6583e90465fadd10453c9c103cd16845.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/4158",
+        "name": "Meka #4158",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "296900000000000000"
+        },
+        "rarityScore": 7848,
+        "standard": "ERC721",
+        "tokenId": "4158",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/4158",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 299000000000000000,
+        "id": "4061",
+        "imageUrl": "https://i.seadn.io/gcs/files/5190bcca0173c032f8bcd0757c05e981.png?w=500&auto=format",
+        "market": "seaport",
+        "marketUrl": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/4061",
+        "name": "Meka #4061",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "299000000000000000"
+        },
+        "rarityScore": 5746,
+        "standard": "ERC721",
+        "tokenId": "4061",
+        "url": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/4061",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 300000000000000000,
+        "id": "6284",
+        "imageUrl": "https://i.seadn.io/gcs/files/4cf98e39aa8b1f811a0525cc79860dfe.png?w=500&auto=format",
+        "market": "seaport",
+        "marketUrl": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/6284",
+        "name": "Meka #6284",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "300000000000000000"
+        },
+        "rarityScore": 5664,
+        "standard": "ERC721",
+        "tokenId": "6284",
+        "url": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/6284",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 300000000000000000,
+        "id": "8737",
+        "imageUrl": "https://i.seadn.io/gcs/files/7963eb2d069aeac5296964a288150ea5.png?w=500&auto=format",
+        "market": "seaport",
+        "marketUrl": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/8737",
+        "name": "Meka #8737",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "300000000000000000"
+        },
+        "rarityScore": 5489,
+        "standard": "ERC721",
+        "tokenId": "8737",
+        "url": "https://opensea.io/assets/ethereum/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/8737",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 301500000000000000,
+        "id": "3583",
+        "imageUrl": "https://i.seadn.io/gcs/files/b2dc303e6667f340ad640cf99f324d19.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/3583",
+        "name": "Meka #3583",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "301500000000000000"
+        },
+        "rarityScore": 7933,
+        "standard": "ERC721",
+        "tokenId": "3583",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/3583",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 301500000000000000,
+        "id": "5909",
+        "imageUrl": "https://i.seadn.io/gcs/files/a33d25751f23c5b4d375d67586042b71.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5909",
+        "name": "Meka #5909",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "301500000000000000"
+        },
+        "rarityScore": 6789,
+        "standard": "ERC721",
+        "tokenId": "5909",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5909",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 313300000000000000,
+        "id": "1347",
+        "imageUrl": "https://i.seadn.io/gcs/files/3d79c0fabd3160ac105a6441cd838dd4.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/1347",
+        "name": "Meka #1347",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "313300000000000000"
+        },
+        "rarityScore": 4564,
+        "standard": "ERC721",
+        "tokenId": "1347",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/1347",
+        "selected": false,
+        "preSelected": false
+    },
+    {
+        "address": "0x9a534628b4062e123ce7ee2222ec20b86e16ca8f",
+        "collectionName": "MekaVerse",
+        "collectionSymbol": "MEKA",
+        "currentBasePrice": 313300000000000000,
+        "id": "5966",
+        "imageUrl": "https://i.seadn.io/gcs/files/19f7d476cd649bedfed8f6119bcbe41b.png?w=500&auto=format",
+        "market": "blur",
+        "marketUrl": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5966",
+        "name": "Meka #5966",
+        "paymentToken": {
+            "symbol": "ETH",
+            "decimals": 18,
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "priceInfo": {
+            "asset": "0x0000000000000000000000000000000000000000",
+            "price": "313300000000000000"
+        },
+        "rarityScore": 7001,
+        "standard": "ERC721",
+        "tokenId": "5966",
+        "url": "https://blur.io/asset/0x9a534628b4062e123ce7ee2222ec20b86e16ca8f/5966",
+        "selected": false,
+        "preSelected": false
+    }
+]
