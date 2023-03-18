@@ -23,28 +23,28 @@ export default function Card() {
             countPerPage: 25
         })
         // const { data } = await axios.get(`https://warehouse.czlabs.io/api1/web3/portfolio/${address}`, {})
-        const data = await fetch("https://bfgjytnlq1.execute-api.us-east-2.amazonaws.com/main/nftfilteredlistingsv2", {
-            "headers": {
-                "accept": "*/*",
-                "accept-language": "en-US,en;q=0.9",
-                "cache-control": "no-cache",
-                "content-type": "application/json",
-                "pragma": "no-cache",
-                "sec-ch-ua": "\"Chromium\";v=\"108\", \"Opera GX\";v=\"94\", \"Not)A;Brand\";v=\"99\"",
-                "sec-ch-ua-mobile": "?0",
-                "sec-ch-ua-platform": "\"Windows\"",
-                "sec-fetch-dest": "empty",
-                "sec-fetch-mode": "cors",
-                "sec-fetch-site": "none"
-            },
-            "referrerPolicy": "strict-origin-when-cross-origin",
-            "body": body,
-            "method": "POST",
-            "mode": "cors",
-        })
-            .then(res => { return res.json() })
-        console.log(data)
-        setListData(data.data)
+        // const data = await fetch("https://bfgjytnlq1.execute-api.us-east-2.amazonaws.com/main/nftfilteredlistingsv2", {
+        //     "headers": {
+        //         "accept": "*/*",
+        //         "accept-language": "en-US,en;q=0.9",
+        //         "cache-control": "no-cache",
+        //         "content-type": "application/json",
+        //         "pragma": "no-cache",
+        //         "sec-ch-ua": "\"Chromium\";v=\"108\", \"Opera GX\";v=\"94\", \"Not)A;Brand\";v=\"99\"",
+        //         "sec-ch-ua-mobile": "?0",
+        //         "sec-ch-ua-platform": "\"Windows\"",
+        //         "sec-fetch-dest": "empty",
+        //         "sec-fetch-mode": "cors",
+        //         "sec-fetch-site": "none"
+        //     },
+        //     "referrerPolicy": "strict-origin-when-cross-origin",
+        //     "body": body,
+        //     "method": "POST",
+        //     "mode": "cors",
+        // })
+        //     .then(res => { return res.json() })
+        // console.log(data)
+        // setListData(data.data)
     }
     useEffect(() => {
         getListNFt(address)
